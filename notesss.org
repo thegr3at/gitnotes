@@ -12,7 +12,7 @@
 - Git branching* :: allows each developer to branch out from the original
   code base and isolate their work from others.*
 
-* Notes
+* Notes/neighborito
 
 - Merging :: *combining the work from two different branches together.
   This will allow us to branch off, develop a new feature, and then
